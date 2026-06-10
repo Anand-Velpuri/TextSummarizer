@@ -3,3 +3,5 @@ artifacts/
 __pycache__/
 *.pyc
 logs/
+.vscode/
+.ipynb_checkpoints/
