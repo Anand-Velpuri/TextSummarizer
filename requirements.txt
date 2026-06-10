@@ -8,6 +8,7 @@ pandas
 nltk
 tqdm
 PyYAML
+python-box
 matplotlib
 torch
 notebook
